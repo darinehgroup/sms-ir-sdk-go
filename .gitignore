@@ -1,0 +1,8 @@
+# OS / IDE / local tooling
+.DS_Store
+.idea/
+.vscode/
+
+# coverage / build output
+*.test
+*.out
